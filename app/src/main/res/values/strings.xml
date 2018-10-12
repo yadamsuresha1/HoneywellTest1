@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Honeywell Test</string>
+    <string name="honewell_test">Honeywell</string>
+    <string name="get_data">Get Data</string>
+    <string name="click_on_getdata_to_get_data">Click on getData to get Data</string>
+    <string name="about_this_person">About this person About this person About this person About this person About this person About this person About this person About this person</string>
+    <string name="network_error">No Internet Connection, Enable and click on refresh button!</string>
+</resources>
